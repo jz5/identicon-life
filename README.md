@@ -1,6 +1,6 @@
-# identicon-life
+# Life of Identicon
 
-Game of Live of [GitHub Identicon](https://github.com/blog/1586-identicons)!
+Game of Life of [GitHub Identicon](https://github.com/blog/1586-identicons)!
 
 ![github-gif-anime](https://cloud.githubusercontent.com/assets/435620/9977282/2c94d262-5f3c-11e5-86b8-7ae8fd7ca819.gif)
 
